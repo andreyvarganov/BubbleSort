@@ -1,2 +1,2 @@
 # BubbleSort
-Implementation of bubble sorting
+Implementation of a bubble sort
